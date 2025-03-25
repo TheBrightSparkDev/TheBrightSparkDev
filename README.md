@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBrightSparkDev
 - 👀 I’m interested in ... Coding and marketing!
-- 🌱 I’m currently learning ... html, css, javascript, 
+- 🌱 I’m a fully qualified full stack developer and API developer, 
 - 💞️ I’m looking to collaborate on ... Anything you have in mind?
 - 📫 How to reach me ... Drop me a message on my email thebrightspark1@gmail.com
 
